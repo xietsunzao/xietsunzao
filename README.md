@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<br />
+
 <a href="https://discord.gg/xtWuSm">
   <img align="left" alt="Jeff's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
@@ -12,8 +14,6 @@
 <a href="https://www.facebook.com/lordshinjo">
   <img align="left" alt="My Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-
-<br />
 
 **Languages, Frameworks, and Tools:**  
 
