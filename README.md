@@ -14,6 +14,7 @@
 <a href="https://www.facebook.com/lordshinjo">
   <img align="left" alt="My Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+![](https://visitor-badge.glitch.me/badge?page_id=xietsunzao.xietsunzao)
 
 **Languages, Frameworks, and Tools:**  
 
