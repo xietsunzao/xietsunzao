@@ -1,22 +1,12 @@
 ### Hi there 👋
 
-<br />
+<div align="centre">
 
-<a href="https://discord.gg/xtWuSm">
-  <img align="left" alt="Jeff's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
-<a href="https://twitter.com/lord_shinjo">
-  <img align="left" alt="My Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/lord_shinjo5">
-  <img align="left" alt="My Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/lordshinjo">
-  <img align="left" alt="My Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-
-<br /><br />
-
+[![Twitter Badge](http://img.shields.io/badge/-@lord_shinjo-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/lord_shinjo)](https://twitter.com/lord_shinjo) [![GitHub followers](https://img.shields.io/github/followers/xietsunzao?label=Follow&style=social)](https://github.com/xietsunzao/?tab=follow)
+[![Instagram Badge](https://img.shields.io/badge/-lord_shinjo-blue?style=social&logo=Instagram&link=https://www.instagram.com/lord_shinjo5/)](https://www.instagram.com/lord_shinjo5/) 
+[![Facebook Badge](https://img.shields.io/badge/-Jeff_Maruli-blue?style=social&logo=facebook&link=https://www.facebook.com/lordshinjo/)](https://www.facebook.com/lordshinjo/) 
+![visitors](https://hit-badger.glitch.me/badge?page_id=xietsunzao.xietsunzao)
+ </div>
 
 **Languages, Frameworks, and Tools:**  
 
