@@ -2,8 +2,8 @@
 
 <div align="centre">
 
-[![Twitter Badge](http://img.shields.io/badge/-@lord_shinjo-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/lord_shinjo)](https://twitter.com/lord_shinjo) [![GitHub followers](https://img.shields.io/github/followers/xietsunzao?label=Follow&style=social)](https://github.com/xietsunzao/?tab=follow)
-[![Instagram Badge](https://img.shields.io/badge/-lord_shinjo-blue?style=social&logo=Instagram&link=https://www.instagram.com/lrdshinjo/)](https://www.instagram.com/lrdshinjo/) 
+ [![GitHub followers](https://img.shields.io/github/followers/xietsunzao?label=Follow&style=social)](https://github.com/xietsunzao/?tab=follow)
+[![Instagram Badge](https://img.shields.io/badge/-lshin-blue?style=social&logo=Instagram&link=https://www.instagram.com/lrdshinjo/)](https://www.instagram.com/lrdshinjo/) 
 [![Facebook Badge](https://img.shields.io/badge/-Jeff_Maruli-blue?style=social&logo=facebook&link=https://www.facebook.com/lordshinjo/)](https://www.facebook.com/lordshinjo/) 
 ![visitors](https://hit-badger.glitch.me/badge?page_id=xietsunzao.xietsunzao)
  </div>
