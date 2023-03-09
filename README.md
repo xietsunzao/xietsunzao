@@ -38,8 +38,10 @@
 </table>
 
 # 📊 GitHub Stats!:
-![](https://github-readme-stats.vercel.app/api?username=xietsunzao&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=xietsunzao&theme=dark&hide_border=false)
+<div style="display:flex; flex-wrap:wrap; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=xietsunzao&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 48%; height: auto;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=xietsunzao&theme=dark&hide_border=false" alt="GitHub Streak" style="width: 48%; height: auto;">
+</div>
 
 <img src="https://github.com/xietsunzao/xietsunzao/blob/master/images/stat.svg" alt="Stats"/>
 
