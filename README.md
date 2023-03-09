@@ -12,6 +12,27 @@
   <img alt="CodeIgniter" src="https://img.shields.io/badge/-CodeIgniter-EE4623?style=flat-square&logo=codeigniter&logoColor=white" />
 
 </p>
+<h3>Open source projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Bootcamp-STMIK-Mardira-Indonesia/mardira-framework"><b>Mardira Framework</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Bootcamp-STMIK-Mardira-Indonesia/mardira-framework?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Bootcamp-STMIK-Mardira-Indonesia/mardira-framework?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Bootcamp-STMIK-Mardira-Indonesia/mardira-framework?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Bootcamp-STMIK-Mardira-Indonesia/mardira-framework?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
 
 # 📊 GitHub Stats!:
 ![](https://github-readme-stats.vercel.app/api?username=xietsunzao&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
