@@ -1,4 +1,13 @@
-### Hi there, my name is Jefri Maruli H 👋
+### Hi there, my name is Jeff Maruli 👋
+
+<h3>Things I code with</h3>
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
 
 # 📊 GitHub Stats!:
 ![](https://github-readme-stats.vercel.app/api?username=xietsunzao&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
