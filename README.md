@@ -37,6 +37,13 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Bootcamp-STMIK-Mardira-Indonesia/mardira-framework?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Bootcamp-STMIK-Mardira-Indonesia/mardira-framework?style=flat-square&labelColor=343b41"/></td>
     </tr>
+     <tr>
+      <td><a href="    https://github.com/xietsunzao/absensiqrcode"><b>Absensi QR Code</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/xietsunzao/absensiqrcode?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/xietsunzao/absensiqrcode?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/xietsunzao/absensiqrcode?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/xietsunzao/absensiqrcode?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
@@ -45,6 +52,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=xietsunzao&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 41%; height: auto;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=xietsunzao&theme=dark&hide_border=false" alt="GitHub Streak" style="width: 45%; height: auto;">
 </div>
+
 
 
 <img src="https://github.com/xietsunzao/xietsunzao/blob/master/images/stat.svg" alt="Stats"/>
