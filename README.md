@@ -51,8 +51,13 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/xietsunzao/absensiqrcode?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/xietsunzao/absensiqrcode?style=flat-square&labelColor=343b41"/></td>
     </tr>
-      </tr>
-    
+      <tr>
+      <td><a href="https://github.com/xietsunzao/absensiqrcode"><b>Seminar QR CI3</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/xietsunzao/seminarqrci3?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/xietsunzao/seminarqrci3?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/xietsunzao/seminarqrci3?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/xietsunzao/seminarqrci3?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
