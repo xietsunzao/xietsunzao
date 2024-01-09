@@ -50,7 +50,5 @@
     <img src="https://streak-stats.demolab.com/?user=xietsunzao&theme=dark&hide_border=false" alt="GitHub Streak" style="width: 50%; height: auto;">
 </div>
 
-<img src="https://github.com/xietsunzao/xietsunzao/blob/master/images/stat.svg" alt="Stats"/>
-
 [![An image of @xietsunzao's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xietsunzao)](https://holopin.io/@xietsunzao)
 
