@@ -14,7 +14,7 @@
     <!-- Right Column: Holopin Badges -->
     <td>
       <a href="https://holopin.io/@xietsunzao">
-        <img src="https://holopin.me/xietsunzao" alt="Holopin Badges" width="400">
+        <img src="https://holopin.me/xietsunzao" alt="Holopin Badges" style="width: 600px; height: 200px;">
       </a>
     </td>
   </tr>
