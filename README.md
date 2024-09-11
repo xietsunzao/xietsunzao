@@ -3,8 +3,8 @@
 
 # 📊 GitHub Stats!:
 <div style="display:flex; flex-wrap:wrap; justify-content: center;">
-    <img src="https://github-readme-xietsunzao.vercel.app/api?username=xietsunzao&theme=dark&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" style="width: 95%; height: auto;">
-    <img src="https://streak-stats.demolab.com/?user=xietsunzao&theme=dark&hide_border=false" alt="GitHub Streak" style="width: 95%; height: auto;">
+    <img src="https://github-readme-xietsunzao.vercel.app/api?username=xietsunzao&theme=dark&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" style="width: 85%; height: auto;">
+    <img src="https://streak-stats.demolab.com/?user=xietsunzao&theme=dark&hide_border=false" alt="GitHub Streak" style="width: 85%; height: auto;">
 </div>
 
 <br>
