@@ -7,9 +7,9 @@
   <tr>
     <!-- Left Column: Stats -->
     <td>
-      <img src="https://github-readme-xietsunzao.vercel.app/api?username=xietsunzao&theme=dark&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="400">
+      <img src="https://github-readme-xietsunzao.vercel.app/api?username=xietsunzao&theme=dark&include_all_commits=true&count_private=true&show_icons=true&hide_border=true" alt="GitHub Stats" width="400">
       <br>
-      <img src="https://streak-stats.demolab.com/?user=xietsunzao&theme=dark&hide_border=false" alt="GitHub Streak" width="400">
+      <img src="https://streak-stats.demolab.com/?user=xietsunzao&theme=dark&hide_border=true" alt="GitHub Streak" width="400">
     </td>
     <!-- Right Column: Holopin Badges -->
     <td>
