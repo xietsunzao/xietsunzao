@@ -19,3 +19,18 @@
     </td>
   </tr>
 </table>
+
+### 💻 Language Stats & Profile Details:
+
+<table>
+  <tr>
+    <!-- Left Column: Most Used Languages -->
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xietsunzao&theme=dark" alt="Most Used Languages" width="400">
+    </td>
+    <!-- Right Column: Profile Details -->
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xietsunzao&theme=dark" alt="Profile Details" width="500">
+    </td>
+  </tr>
+</table>
