@@ -30,7 +30,7 @@
     </td>
     <!-- Right Column: Profile Details -->
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xietsunzao&theme=dark" alt="Profile Details" width="500">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xietsunzao&theme=dark" alt="Profile Details" width="600">
     </td>
   </tr>
 </table>
